@@ -1,7 +1,6 @@
 ffmpeg-python
 Flask
 Flask_Cors
-gradio>=3.7.0
 numpy==1.23.5
 pyworld
 scipy==1.10.0
@@ -29,3 +28,6 @@ pynvml
 faiss-cpu
 einops
 local_attention
+fastapi==0.84.0
+pydantic==1.10.12
+gradio==3.41.2
